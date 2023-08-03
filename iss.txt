@@ -1,0 +1,14 @@
+There are currently 10 astronauts in space: 
+
+ Sergey Prokopyevis on board the ISS
+Dmitry Petelinis on board the ISS
+Frank Rubiois on board the ISS
+Stephen Bowenis on board the ISS
+Warren Hoburgis on board the ISS
+Sultan Alneyadiis on board the ISS
+Andrey Fedyaevis on board the ISS
+Jing Haipingis on board the Tiangong
+Gui Haichowis on board the Tiangong
+Zhu Yangzhuis on board the Tiangong
+
+ Your current latitude / longitude is: [40.4332, -74.1996]
